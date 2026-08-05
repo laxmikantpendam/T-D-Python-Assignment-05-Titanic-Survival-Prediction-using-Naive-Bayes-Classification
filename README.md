@@ -11,5 +11,5 @@ Dataset: Titanic Dataset (891 passenger records).
 pplied probabilistic classification (Naive Bayes) suited for categorical and mixed-type medical/demographic data.
 Part of the Advanced Data Science & ML certification program (IIT Roorkee, in collaboration with Intellipaat).
 
-COntributor - 
+Contributor - 
 Laxmikant Mahadeo Pendam
